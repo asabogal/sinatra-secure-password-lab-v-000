@@ -31,7 +31,7 @@ class ApplicationController < Sinatra::Base
     erb :account
     # else
     #   erb :index
-    end
+    # end
   end
 
 
